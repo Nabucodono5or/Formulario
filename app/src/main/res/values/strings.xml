@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="drawer_header_text">Informações Profissionais</string>
+    <string name="nav_sub_menu">Sub Menu</string>
+    <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
+    <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_pessoais">Informaçoes Pessoais</string>
+    <string name="nav_item_formacao">Formaçao</string>
+    <string name="nav_item_experiencia">Experiencia Profissional</string>
+    <string name="nav_item_curso">Cursos</string>
+    <string name="nav_item_pub">Publicaçoes</string>
+</resources>

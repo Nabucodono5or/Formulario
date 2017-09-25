@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_Pessoais"
+            android:checked="true"
+            android:title="@string/nav_item_pessoais"
+            android:icon="@mipmap/ic_pessoais" />
+        <item
+            android:id="@+id/navigation_item_formacao"
+            android:title="@string/nav_item_formacao"
+            android:icon="@mipmap/ic_formacao"/>
+        <item
+            android:id="@+id/navigation_item_experiencia"
+            android:title="@string/nav_item_experiencia"
+            android:icon="@mipmap/ic_experiencia"/>
+        <item
+            android:id="@+id/navigation_item_curso"
+            android:title="@string/nav_item_curso"
+            android:icon="@mipmap/ic_cursos"/>
+        <item
+            android:title="@string/nav_item_pub"
+            android:id="@+id/navigation_item_pub"
+            android:icon="@mipmap/ic_pub"/>
+    </group>
+</menu>
