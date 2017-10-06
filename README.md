@@ -8,4 +8,4 @@ Projeto para desenvolvimento de uma interface simples em android usando boas pr�
 + Atividades acessadas através de menu.
 + Botão para voltar as informações anteriores.
 ## Licença
-Code released under the MIT License
+Code released under the [MIT License](https://github.com/Nabucodono5or/Formulario/blob/master/LICENSE)
