@@ -2,7 +2,7 @@
 Projeto para desenvolvimento de uma interface simples em android usando boas práticas e um ícone menu. Contudo não uma lógica de programação por trás do projeto, apenas no que se remete alguns ícones de interface.
 ## Screenshots
 <div style="max-length:200px"><img src="screenshot/tela_formulario.png" alt="Tela inicial" style="padding-left:5px" />
-<img src="screenshot/tela_formulario_botaovoltar.png" alt="Uma das telas do menu" style="padding-left:5px" /></div>
+<img src="screenshot/tela_formulario_botaovoltar.png" alt="Uma das telas do menu" style="padding-left:10px" /></div>
 
 ## Detalhes
 + Princípios do design de interfaces.
