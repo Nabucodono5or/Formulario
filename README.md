@@ -3,6 +3,7 @@ Projeto para desenvolvimento de uma interface simples em android usando boas pr√
 ## Screenshots
 <div style="max-length:200px"><img src="screenshot/tela_formulario.png" alt="Tela inicial" style="padding-left:5px" />
 <img src="screenshot/tela_formulario_botaovoltar.png" alt="Uma das telas do menu" style="padding-left:10px" /></div>
+<img src="screenshot/tela_formulario_menu.png" alt="Uso do menu" style="padding-left:5px" />
 
 ## Detalhes
 + Princ√≠pios do design de interfaces.
